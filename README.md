@@ -1,4 +1,4 @@
 Blog
 ====
 
-Source code for all blog entries
+Source code for SpatialAgent blogs
