@@ -1,4 +1,4 @@
 Blog
 ====
 
-Source code for [SpatialAgent.com] (www.spatialagent.com) blogs
+Source code for [Spatialagent.com] (http://www.spatialagent.com) blogs
