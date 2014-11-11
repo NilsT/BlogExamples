@@ -1,4 +1,4 @@
 Blog
 ====
 
-full source code for all blog entries
+Source code for all blog entries
