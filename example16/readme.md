@@ -1,4 +1,4 @@
-# Blog - Maps and Grids
+# Blog - Maps and Datagrids
 
 This is an example of mapping a geojson file with [Leaflet] (http://leafletjs.com/) and displaying tabular data in a dojo [dgrid] (http://dgrid.io/) control
 
