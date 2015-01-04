@@ -1,4 +1,4 @@
-# Blog Example 15
+# Blog - Mapping a csv file with Leaflet.
 
 This is an example of cluster mapping csv data using [Leaflet] (http://leafletjs.com/)
 
