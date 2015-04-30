@@ -4,4 +4,4 @@ This is an example of mapping a geojson file with [Leaflet] (http://leafletjs.co
 
 For more information about this example visit [SpatialAgent] (http://spatialagent.com/blog?&id=16)
 
-## [Demo] (http://spatialagent.com/examples/16/index.html)
+## [Demo] (http://spatialagent.com/examples/maps_datagrids/index.html)
