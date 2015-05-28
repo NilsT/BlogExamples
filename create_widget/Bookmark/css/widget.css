@@ -1,0 +1,96 @@
+/**
+ * widget.css
+ * 
+ * Copyright (c) 2014 Spatial Agent
+ * 
+ * This file is part of darcMap.
+ *	
+ * darcMap is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * darcMap is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with darcMap.  If not, see <http://www.gnu.org/licenses/>.
+ *
+**/
+
+.widget_Bookmark .tabButtonIcon.black, .widget_Bookmark .tabButtonIcon.blue, .widget_Bookmark .tabButtonIcon.green{
+  background-image: url(../images/icon_light.png);
+}
+
+.widget_Bookmark .tabButtonIcon.white {
+  background-image: url(../images/icon_dark.png);
+}
+
+.widget_Bookmark .theme_white {
+   color:#000000;
+}
+
+.widget_Bookmark .theme_black, .widget_Bookmark .theme_blue, .widget_Bookmark .theme_green{
+   color:#FFFFFF;
+}
+
+
+/* floating widget styles*/
+
+.widget_Bookmark .toolbarButtonIcon.blue, .widget_Bookmark .toolbarButtonIcon.black, .widget_Bookmark .toolbarButtonIcon.green {  
+    background: url(../images/icon_light.png) no-repeat center center; 
+}
+.widget_Bookmark .toolbarButtonIcon.white {
+    background: url(../images/icon_dark.png) no-repeat center center;
+}
+.widget_Bookmark .floatingPaneIcon.black, .widget_Bookmark .floatingPaneIcon.blue, .widget_Bookmark .floatingPaneIcon.green{
+  background-image: url(../images/icon_light.png);
+}
+
+.widget_Bookmark .floatingPaneIcon.white {
+  background-image: url(../images/icon_dark.png);
+}
+
+/*widget styles*/
+
+.widget_Bookmark .esriBookmarks
+{
+	border-style:none;
+}
+.widget_Bookmark .esriBookmarkTable, .widget_Bookmark #bookmarkDigit
+{
+	width:100%;
+}
+.widget_Bookmark .esriBookmarkItem
+{
+	height:25px;
+	width:100%;
+}
+.widget_Bookmark .theme_black .esriBookmarkLabel, .widget_Bookmark .theme_blue .esriBookmarkLabel, .widget_Bookmark .theme_green .esriBookmarkLabel
+{
+	 color:#FFFFFF;
+}
+.widget_Bookmark .esriBookmarkHighlight
+{
+	background-color:rgba(255, 255, 255, 0.1);
+}
+
+.widget_Bookmark .theme_white .esriBookmarkLabel
+{
+	 color:#OOOOOO;
+}
+.widget_Bookmark .theme_white .esriBookmarkHighlight
+{
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+/* Responsive Design Media Queries*/
+/*Smartphone (portrait) */
+@media all and (max-width: 360px) 
+{
+}
